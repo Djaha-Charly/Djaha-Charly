@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Charly William DJAHA YANKEP
 
-### Computer Engineer • Data Analyst • Business Intelligence
+### Computer Engineer • Data Analyst • BI & Financial Analytics
 
 Passionate about transforming raw data into actionable business insights through analytics, visualization, and modern data workflows.
 
@@ -20,6 +20,7 @@ Passionate about transforming raw data into actionable business insights through
 
 ### Data Analytics & BI
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -91,6 +92,7 @@ Power BI dashboard analyzing:
 
 - French 🇫🇷
 - Italian 🇮🇹
+- English 🇬🇧
 
 ---
 
@@ -98,7 +100,7 @@ Power BI dashboard analyzing:
 
 📧 charlydjaha.ae@gmail.com
 
-💼 LinkedIn https://www.linkedin.com/in/charly-data-analyst/
+💼 LinkedIn: www.linkedin.com/in/charly-data-analyst
 
 ---
 
