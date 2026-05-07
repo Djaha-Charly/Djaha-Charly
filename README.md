@@ -1,4 +1,8 @@
-# 👋 Hello, I'm Charly William DJAHA YANKEP
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Djaha-Charly/Djaha-Charly/main/banniere%20pour%20github.png" width="100%" />
+</p>
+
+# Charly William DJAHA YANKEP
 
 ### Computer Engineer • Data Analyst • BI & Financial Analytics
 
