@@ -60,7 +60,7 @@ Key features:
 
 ---
 
-💊 European Pharmacy Sales Analytics  
+## 💊 European Pharmacy Sales Analytics  
 🔗 https://github.com/Djaha-Charly/european-pharmacy-bi-analytics
 
 End-to-end BI analytics project using:
