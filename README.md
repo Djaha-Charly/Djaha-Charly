@@ -60,6 +60,28 @@ Key features:
 
 ---
 
+💊 European Pharmacy Sales Analytics  
+🔗 https://github.com/Djaha-Charly/european-pharmacy-bi-analytics
+
+End-to-end BI analytics project using:
+
+- Python
+- DuckDB
+- dbt
+- Parquet
+- Power BI
+
+Key features:
+
+- Executive Power BI dashboard
+- Category performance analysis
+- Country performance analysis
+- Promotion impact analysis
+- Pharmacy performance ranking
+- Modern analytics workflow with dbt and DuckDB
+
+---
+
 ## 🛒 Ecommerce Customer Behavior Analysis
 🔗 https://github.com/Djaha-Charly/Ecommerce_Customer_Behavior_Analysis
 
