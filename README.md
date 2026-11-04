@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banniere%20pour%20github.png" alt="Charly William Djaha Yankep — Data Analyst portfolio banner" width="100%" />
+  <img src="./banner_data_analyst.png" alt="Charly William Djaha Yankep — Data Analyst portfolio banner" width="100%" />
 </p>
 
 <h1 align="center">Charly William Djaha Yankep</h1>
